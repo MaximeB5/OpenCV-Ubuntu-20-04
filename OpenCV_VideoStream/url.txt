@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/8304190/cmake-with-include-and-source-paths-basic-setup
+
+-D CMAKE_TOOLCHAIN_FILE=/home/maxime/vcpkg/scripts/buildsystems/vcpkg.cmake
+
+
+cmake .
+make
+
+l'exec est dans bin
+
+Check l'implémentation de Tracking pour comprendre :
+https://github.com/wlssirius/ObjectTracking

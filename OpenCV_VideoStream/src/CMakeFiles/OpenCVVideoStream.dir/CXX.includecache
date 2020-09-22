@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maxime/Bureau/CppProjects/OpenCV_VideoStream/include/DetectAndTrack.h
+
+/home/maxime/Bureau/CppProjects/OpenCV_VideoStream/include/FaceDetection.h
+
+/home/maxime/Bureau/CppProjects/OpenCV_VideoStream/include/Images.h
+string
+-
+
+/home/maxime/Bureau/CppProjects/OpenCV_VideoStream/include/Tracking.h
+
+/home/maxime/Bureau/CppProjects/OpenCV_VideoStream/include/Videos.h
+
+/home/maxime/Bureau/CppProjects/OpenCV_VideoStream/src/main.cpp
+../include/Images.h
+/home/maxime/Bureau/CppProjects/OpenCV_VideoStream/include/Images.h
+../include/Videos.h
+/home/maxime/Bureau/CppProjects/OpenCV_VideoStream/include/Videos.h
+../include/Tracking.h
+/home/maxime/Bureau/CppProjects/OpenCV_VideoStream/include/Tracking.h
+../include/FaceDetection.h
+/home/maxime/Bureau/CppProjects/OpenCV_VideoStream/include/FaceDetection.h
+../include/DetectAndTrack.h
+/home/maxime/Bureau/CppProjects/OpenCV_VideoStream/include/DetectAndTrack.h
+iostream
+-
+
